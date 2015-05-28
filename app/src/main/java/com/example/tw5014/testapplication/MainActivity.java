@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //First: upate 1
+        //Second: update 1
     }
 
     @Override
